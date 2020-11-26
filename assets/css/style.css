@@ -1,0 +1,36 @@
+/* ------------- */
+/* Basic Setiup */
+/* ----------- */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+/* --------------- */
+/* header section */
+/* ------------ */
+.logo-size {
+    width: 75px;
+}
+header .brand {
+    font-weight: 700;
+    font-size: 25px;
+}
+/* ----------------- */
+/* featured section */
+/* -------------- */
+.featured-section  {
+    background-color: #313131;
+}
+
+/* border section */
+.border-section {
+    background-color: #2174C7;
+}
+/* features section */
+.features-section  {
+    background-color: #313131;
+}
